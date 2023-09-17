@@ -16,13 +16,13 @@ Studies in mathematics education and statistics. Ph.D. in Statistics / Universit
   <img align="center" alt="Michael-Latex" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
 </div>
 
-### Just now
+### 🏃‍♂️ Just now
 - 💻 I’m currently working on Spatial Analysis & Geospatial Data Science
 - 🌍 I’m currently learning GIS database management and Sustainable Development Goals (SDG-2023)
 - 🤘 Fun fact: 🎾 and 🎸
   
-### Contact point
-- 📫 michaelzam@gmail.com
+### 📫 Contact point
+- michaelzam@gmail.com
 - 🗣 Pronouns: he/him
 - 💬 Ask me about: projects in Applied Mathematics (analysis of non-Gaussian spatial data, GIS, operations research, machine learning, statistics, project management, mathematics teaching...)
 
