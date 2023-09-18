@@ -24,14 +24,14 @@ Studies in mathematics education and statistics. Ph.D. in Statistics / Universit
 ### 📫 Contact point
 - michaelzam@gmail.com
 - 🗣 Pronouns: he/him
-- 💬 Ask me about: projects in Applied Mathematics (analysis of non-Gaussian spatial data, GIS, operations research, machine learning, statistics, project management, mathematics teaching...)
+- 💬 Ask me about: projects in Applied Mathematics (analysis of non-Gaussian spatial data, GIS, operations research, machine learning, statistics, project management, QA, mathematics teaching...)
 
 ### 🌐 Social networks
 <div> 
  <a href="https://www.linkedin.com/in/michael-zamudio-monserratt-b92353218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-### 📊 GitHub Statistics
+### 📊 GitHub statistics
 <div align="center">
   <a href="https://github.com//michaelzam">
   <img height="160em" width="35%"  src="https://github-readme-stats.vercel.app/api?username=michaelzam&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
