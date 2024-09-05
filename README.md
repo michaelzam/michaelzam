@@ -18,7 +18,7 @@ Studies in mathematics education and statistics. Ph.D. in Statistics / Universit
 
 ### 🏃‍♂️ Just now
 - 💻 I’m currently working on Spatial Analysis & Geospatial Data Science
-- 🌍 I’m currently learning GIS database management and Sustainable Development Goals (SDG-2030)
+- 🌍 I’m currently learning GIS database management and IA methodologies
 - 🤘 Fun fact: 🎾 and 🎸
   
 ### 📫 Contact point
