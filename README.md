@@ -1,4 +1,4 @@
-### Hi I´m Michael Zamudio Monserratt ♟ - Spatial data analyst
+### I´m Michael Zamudio Monserratt ♟ - Spatial data analyst
 <div>
   <p>
 Studies in mathematics education and statistics. Ph.D. in Statistics / University of Valparaíso - Chile. Thesis focus in Geostatistics: Non-Gaussian Random Fields in spatial data modeling. Experience in optimization models and operations research, sample research, mathematical programming, machine learning algorithms: regression, bayesian approach, SVM, neural networks, PCA, clustering, as well as statistical modeling theory, quality control, and other applied methods of spatial statistics Advanced knowledge in statistical or mathematical software (Matlab, R, SPSS, others). Background in the design of algorithms and programming (C++ and Python). Professor, and work experience in multidisciplinary scientific projects of data analytics for decision making.
