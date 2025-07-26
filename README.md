@@ -22,7 +22,7 @@ Studies in mathematics education and statistics. Ph.D. in Statistics / Universit
 - 🤘 Fun fact: 🎾 and 🎸
   
 ### 📫 Contact point
-- michaelzam@gmail.com
+- michael.zamudio03@gmail.com | michaelzam@gmail.com
 - 🗣 Pronouns: he/him
 - 💬 Ask me about: projects in Applied Mathematics (analysis of non-Gaussian spatial data, GIS, operations research, machine learning, statistics, project management, QA, mathematics teaching...)
 
